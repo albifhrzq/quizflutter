@@ -21,7 +21,7 @@ class FoodMenuPage extends StatelessWidget {
       FoodItem(
         name: 'Mie Goreng',
         price: 'Rp 23.000',
-        imageAsset: 'assets/images/NasiGoreng.jpg',
+        imageAsset: 'assets/images/MieGoreng.jpg',
         description:
             'Mie goreng adalah hidangan mie yang dimasak dengan digoreng tumis khas Indonesia. '
             'Hidangan ini dibuat dengan bahan utama mie kuning yang digoreng dengan sedikit minyak goreng, dan ditambahkan bumbu.',
@@ -29,7 +29,7 @@ class FoodMenuPage extends StatelessWidget {
       FoodItem(
         name: 'Sate Ayam',
         price: 'Rp 30.000',
-        imageAsset: 'assets/images/NasiGoreng.jpg',
+        imageAsset: 'assets/images/SateAyam.jpg',
         description:
             'Sate ayam adalah makanan yang terbuat dari daging ayam yang dipotong kecil-kecil, '
             'ditusuk dengan tusukan sate, dan dibakar dengan api arang. Disajikan dengan bumbu kacang atau kecap manis.',
@@ -37,7 +37,7 @@ class FoodMenuPage extends StatelessWidget {
       FoodItem(
         name: 'Gado-gado',
         price: 'Rp 20.000',
-        imageAsset: 'assets/images/NasiGoreng.jpg',
+        imageAsset: 'assets/images/GadoGado.jpg',
         description:
             'Gado-gado adalah makanan khas Indonesia yang berupa sayur-sayuran yang direbus dan dicampur jadi satu, '
             'dengan bumbu kacang atau saus dari kacang tanah yang dihaluskan disertai irisan telur.',
@@ -45,7 +45,7 @@ class FoodMenuPage extends StatelessWidget {
       FoodItem(
         name: 'Rendang',
         price: 'Rp 35.000',
-        imageAsset: 'assets/images/NasiGoreng.jpg',
+        imageAsset: 'assets/images/Rendang.jpg',
         description:
             'Rendang adalah masakan daging bercita rasa pedas yang menggunakan campuran dari berbagai bumbu dan rempah-rempah. '
             'Dimasak dalam waktu lama hingga kuahnya kering dan dagingnya empuk.',

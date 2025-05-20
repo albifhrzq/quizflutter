@@ -48,7 +48,7 @@ class FoodDetailPage extends StatelessWidget {
                     width: 280,
                     height: 70,
                     decoration: BoxDecoration(
-                      color: primaryColor.withOpacity(0.8),
+                      color: Colors.black.withOpacity(0.8),
                       borderRadius: BorderRadius.circular(8),
                     ),
                     padding: const EdgeInsets.symmetric(
@@ -73,7 +73,7 @@ class FoodDetailPage extends StatelessWidget {
                           food.price,
                           style: const TextStyle(
                             color: Colors.white,
-                            fontSize: 14,
+                            fontSize: 14, 
                           ),
                           textAlign: TextAlign.right,
                         ),
